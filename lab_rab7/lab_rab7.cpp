@@ -70,9 +70,11 @@ void z3() {
 			}
 			file1.close();
 			cout << data << endl;
+			data = "";
 		}
 		else if (str3 == "erase") {
-			file1.open("new_file.txt", ios::out);
+			//file1.open("new_file.txt", ios::out);
+			ofstream file1("new_file.txt");
 			file1.close();
 		}
 		else {

@@ -1,8 +1,8 @@
 ﻿  lab_rab7.cpp
-C:\Users\ssten\Desktop\учеба\с++. Алгоритмы\lab_rab7\lab_rab7\lab_rab7.cpp(88,46): warning C4244: аргумент: преобразование "int" в "_Ty", возможна потеря данных
+C:\Users\ssten\Desktop\учеба\с++. Алгоритмы\lab_rab7\lab_rab7\lab_rab7.cpp(91,46): warning C4244: аргумент: преобразование "int" в "_Ty", возможна потеря данных
           with
           [
               _Ty=float
           ]
-C:\Users\ssten\Desktop\учеба\с++. Алгоритмы\lab_rab7\lab_rab7\lab_rab7.cpp(118,12): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\ssten\Desktop\учеба\с++. Алгоритмы\lab_rab7\lab_rab7\lab_rab7.cpp(122,12): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
   lab_rab7.vcxproj -> C:\Users\ssten\Desktop\учеба\с++. Алгоритмы\lab_rab7\x64\Debug\lab_rab7.exe
